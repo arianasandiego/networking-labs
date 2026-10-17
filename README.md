@@ -6,3 +6,4 @@ Table of Contents
 
 - Day 01 Lab - Packet Tracer Introduction
 - Day 02 Lab - Connecting Devices
+- Day 03 Lab - OSI Model
